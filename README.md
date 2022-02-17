@@ -1,1 +1,1 @@
-# Instagram_Clone
+# HTML CSS practice
